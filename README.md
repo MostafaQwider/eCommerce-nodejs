@@ -129,9 +129,6 @@ npm start
 
 Contributions are welcome! Please fork the repository and open a pull request with your features or fixes.
 
-## Licensing
-
-This project is licensed under the ISC License. See the LICENSE file for details.
 
 ## Contact
 
